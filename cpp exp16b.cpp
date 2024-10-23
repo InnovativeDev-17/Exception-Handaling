@@ -1,5 +1,3 @@
-//Aryaman Pathak EnTCA2 031
-//divide by zero
 #include <iostream>
 using namespace std;
 int main() {
