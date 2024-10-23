@@ -1,5 +1,3 @@
-//Aryaman Pathak EnTCA2 031
-//exception
 #include <iostream>
 using namespace std;
 
